@@ -1,5 +1,5 @@
 {
-    "name": "DHT-ESP_IDF",
+    "name": "DHT-ESP-IDF",
     "version": "1.0.0",
     "description": "An ESP-IDF library for the DHT series of low-cost temperature/humidity sensors.",
     "keywords": "DHT, DHT11, DHT12, DHT21, DHT22, AM2301",
