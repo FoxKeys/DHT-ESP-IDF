@@ -59,5 +59,5 @@ You can find DHT tutorials [here](https://learn.adafruit.com/dht).
 # Contributing
 Contributions are welcome!  Not only you’ll encourage the development of the library, but you’ll also learn how to best use the library and probably some C++ too
 
-MIT license, check license.txt for more information
+MIT license, check LICENSE for more information
 All text above must be included in any redistribution
