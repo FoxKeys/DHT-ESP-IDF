@@ -23,7 +23,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 
-static const char *DHT_TAG = "DHT";
+static const char DHT_TAG[] = "DHT";
 // ( 1 + 40 ) * 2 => "Sensor response signal" + 40 data bits. Multiply on 2 because we measure low and high time of each bit
 // Notice! Some sensors (AM2301 for example) sends more data bits (64). But, "extra" bits are zero, and we ignore it
 static const uint8_t expected_response_size = ( 1 + 40 ) * 2;
