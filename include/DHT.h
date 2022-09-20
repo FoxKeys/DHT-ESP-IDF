@@ -7,7 +7,7 @@
  * 
  *  Repo: https://github.com/FoxKeys/DHT-ESP-IDF
  *
- *  MIT license, check license.txt for more information
+ *  MIT license, check LICENSE for more information
  */
 
 #pragma once

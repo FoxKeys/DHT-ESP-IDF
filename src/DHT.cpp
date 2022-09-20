@@ -1,3 +1,14 @@
+/*!
+ *  @file DHT.cpp
+ *
+ *  An ESP-IDF library for the DHT series of low-cost temperature/humidity sensors.
+ *
+ *  Written by FoxKeys https://github.com/FoxKeys
+ * 
+ *  Repo: https://github.com/FoxKeys/DHT-ESP-IDF
+ *
+ *  MIT license, check LICENSE for more information
+ */
 #include "DHT.h"
 
 /**
